@@ -28,7 +28,7 @@
 ## 📫 Connect with Me
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/pranav-shinde-326261291)
-- 🌐 [Portfolio](https://your-portfolio.com)
+- 🌐 [Portfolio](https://visionary-stroopwafel-d98f49.netlify.app/)
 - 📧 Email: pranavshinde1312@gmail.com
 
 ---
